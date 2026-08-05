@@ -25,7 +25,7 @@ With purchases over $200, you receive all the gifts
 <table style="width: 100%; border-collapse: collapse; margin-bottom: 20px;">
   <tr>
     <td style="vertical-align: top; width: 0; padding: 0;">
-      <img src="new_year_bot" style="width: 150px; height: 150px; display: block;">
+      <img src="new_year_bot.png" style="width: 150px; height: 150px; display: block;">
     </td>
     <td style="vertical-align: top; padding-left: 15px;">
       <h3 style="margin-top: 0;">Новый Год</h3>
@@ -40,7 +40,7 @@ With purchases over $200, you receive all the gifts
 <table style="width: 100%; border-collapse: collapse; margin-bottom: 20px;">
   <tr>
     <td style="vertical-align: top; width: 0; padding: 0;">
-      <img src="defenders_day_bot" style="width: 150px; height: 150px; display: block;">
+      <img src="defenders_day_bot.png" style="width: 150px; height: 150px; display: block;">
     </td>
     <td style="vertical-align: top; padding-left: 15px;">
       <h3 style="margin-top: 0;">День Защитника</h3>
@@ -55,7 +55,7 @@ With purchases over $200, you receive all the gifts
 <table style="width: 100%; border-collapse: collapse; margin-bottom: 20px;">
   <tr>
     <td style="vertical-align: top; width: 0; padding: 0;">
-      <img src="womens_day_bot" style="width: 150px; height: 150px; display: block;">
+      <img src="womens_day_bot.png" style="width: 150px; height: 150px; display: block;">
     </td>
     <td style="vertical-align: top; padding-left: 15px;">
       <h3 style="margin-top: 0;">Женский День</h3>
@@ -70,7 +70,7 @@ With purchases over $200, you receive all the gifts
 <table style="width: 100%; border-collapse: collapse; margin-bottom: 20px;">
   <tr>
     <td style="vertical-align: top; width: 0; padding: 0;">
-      <img src="labor_day_bot" style="width: 150px; height: 150px; display: block;">
+      <img src="labor_day_bot.png" style="width: 150px; height: 150px; display: block;">
     </td>
     <td style="vertical-align: top; padding-left: 15px;">
       <h3 style="margin-top: 0;">Первомай</h3>
@@ -85,7 +85,7 @@ With purchases over $200, you receive all the gifts
 <table style="width: 100%; border-collapse: collapse; margin-bottom: 20px;">
   <tr>
     <td style="vertical-align: top; width: 0; padding: 0;">
-      <img src="victory_day_bot" style="width: 150px; height: 150px; display: block;">
+      <img src="victory_day_bot.png" style="width: 150px; height: 150px; display: block;">
     </td>
     <td style="vertical-align: top; padding-left: 15px;">
       <h3 style="margin-top: 0;">День Победы</h3>
@@ -100,7 +100,7 @@ With purchases over $200, you receive all the gifts
 <table style="width: 100%; border-collapse: collapse; margin-bottom: 20px;">
   <tr>
     <td style="vertical-align: top; width: 0; padding: 0;">
-      <img src="childrens_day_bot" style="width: 150px; height: 150px; display: block;">
+      <img src="childrens_day_bot.png" style="width: 150px; height: 150px; display: block;">
     </td>
     <td style="vertical-align: top; padding-left: 15px;">
       <h3 style="margin-top: 0;">День Детей</h3>
@@ -115,7 +115,7 @@ With purchases over $200, you receive all the gifts
 <table style="width: 100%; border-collapse: collapse; margin-bottom: 20px;">
   <tr>
     <td style="vertical-align: top; width: 0; padding: 0;">
-      <img src="russia_day_bot" style="width: 150px; height: 150px; display: block;">
+      <img src="russia_day_bot.png" style="width: 150px; height: 150px; display: block;">
     </td>
     <td style="vertical-align: top; padding-left: 15px;">
       <h3 style="margin-top: 0;">День России</h3>
@@ -130,7 +130,7 @@ With purchases over $200, you receive all the gifts
 <table style="width: 100%; border-collapse: collapse; margin-bottom: 20px;">
   <tr>
     <td style="vertical-align: top; width: 0; padding: 0;">
-      <img src="family_day_bot" style="width: 150px; height: 150px; display: block;">
+      <img src="family_day_bot.png" style="width: 150px; height: 150px; display: block;">
     </td>
     <td style="vertical-align: top; padding-left: 15px;">
       <h3 style="margin-top: 0;">День Семьи</h3>
@@ -145,7 +145,7 @@ With purchases over $200, you receive all the gifts
 <table style="width: 100%; border-collapse: collapse; margin-bottom: 20px;">
   <tr>
     <td style="vertical-align: top; width: 0; padding: 0;">
-      <img src="knowledge_day_bot" style="width: 150px; height: 150px; display: block;">
+      <img src="knowledge_day_bot.png" style="width: 150px; height: 150px; display: block;">
     </td>
     <td style="vertical-align: top; padding-left: 15px;">
       <h3 style="margin-top: 0;">День Знаний</h3>
@@ -160,7 +160,7 @@ With purchases over $200, you receive all the gifts
 <table style="width: 100%; border-collapse: collapse; margin-bottom: 20px;">
   <tr>
     <td style="vertical-align: top; width: 0; padding: 0;">
-      <img src="national_unity_day_bot" style="width: 150px; height: 150px; display: block;">
+      <img src="national_unity_day_bot.png" style="width: 150px; height: 150px; display: block;">
     </td>
     <td style="vertical-align: top; padding-left: 15px;">
       <h3 style="margin-top: 0;">День Единства</h3>
