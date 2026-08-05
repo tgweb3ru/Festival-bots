@@ -29,7 +29,7 @@ With purchases over $200, you receive all the gifts
     </td>
     <td style="vertical-align: top; padding-left: 15px;">
       <h3 style="margin-top: 0;">Новый Год</h3>
-      <p>$25</p>
+      <p>$13</p>
     </td>
   </tr>
 </table>
@@ -44,7 +44,7 @@ With purchases over $200, you receive all the gifts
     </td>
     <td style="vertical-align: top; padding-left: 15px;">
       <h3 style="margin-top: 0;">День Защитника</h3>
-      <p>$25</p>
+      <p>$13</p>
     </td>
   </tr>
 </table>
@@ -59,7 +59,7 @@ With purchases over $200, you receive all the gifts
     </td>
     <td style="vertical-align: top; padding-left: 15px;">
       <h3 style="margin-top: 0;">Женский День</h3>
-      <p>$25</p>
+      <p>$13</p>
     </td>
   </tr>
 </table>
@@ -74,7 +74,7 @@ With purchases over $200, you receive all the gifts
     </td>
     <td style="vertical-align: top; padding-left: 15px;">
       <h3 style="margin-top: 0;">Первомай</h3>
-      <p>$25</p>
+      <p>$13</p>
     </td>
   </tr>
 </table>
@@ -89,7 +89,7 @@ With purchases over $200, you receive all the gifts
     </td>
     <td style="vertical-align: top; padding-left: 15px;">
       <h3 style="margin-top: 0;">День Победы</h3>
-      <p>$25</p>
+      <p>$13</p>
     </td>
   </tr>
 </table>
@@ -104,7 +104,7 @@ With purchases over $200, you receive all the gifts
     </td>
     <td style="vertical-align: top; padding-left: 15px;">
       <h3 style="margin-top: 0;">День Детей</h3>
-      <p>$25</p>
+      <p>$13</p>
     </td>
   </tr>
 </table>
@@ -119,7 +119,7 @@ With purchases over $200, you receive all the gifts
     </td>
     <td style="vertical-align: top; padding-left: 15px;">
       <h3 style="margin-top: 0;">День России</h3>
-      <p>$25</p>
+      <p>$13</p>
     </td>
   </tr>
 </table>
@@ -134,7 +134,7 @@ With purchases over $200, you receive all the gifts
     </td>
     <td style="vertical-align: top; padding-left: 15px;">
       <h3 style="margin-top: 0;">День Семьи</h3>
-      <p>$25</p>
+      <p>$13</p>
     </td>
   </tr>
 </table>
@@ -149,7 +149,7 @@ With purchases over $200, you receive all the gifts
     </td>
     <td style="vertical-align: top; padding-left: 15px;">
       <h3 style="margin-top: 0;">День Знаний</h3>
-      <p>$25</p>
+      <p>$13</p>
     </td>
   </tr>
 </table>
@@ -164,7 +164,7 @@ With purchases over $200, you receive all the gifts
     </td>
     <td style="vertical-align: top; padding-left: 15px;">
       <h3 style="margin-top: 0;">День Единства</h3>
-      <p>$25</p>
+      <p>$13</p>
     </td>
   </tr>
 </table>
